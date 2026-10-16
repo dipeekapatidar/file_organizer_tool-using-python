@@ -1,4 +1,4 @@
-# file_organizer_tool-using-pythonFile Organizer Tool (Python)
+# File Organizer Tool (Python)
 
 A simple tool to clean up messy folders. No external libraries needed, only Python 3.8+.
 
